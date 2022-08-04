@@ -7,3 +7,5 @@ MainWindow.py                        is an interactive interface for single pict
 Put the Model trained in Final_Project_Main_File.ipynb into the /Models directory to run the MainWindow.py successfully.
 
 The dataset can be downloaded from the Kaggle website(https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images).
+
+Made from Sicheng Zhuang
